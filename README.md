@@ -44,3 +44,10 @@ https://github.com/ssborbis/ContextSearch-web-ext
 ![ssborbis_ContextSearch-web-ext_ Search engine manager for modern browsers](https://user-images.githubusercontent.com/90203620/182858033-b0cbb3e2-d45a-4a89-a497-e34620c6c8f1.gif)
 ![image](https://user-images.githubusercontent.com/90203620/182858418-42f939d1-a9b7-4234-8c1b-707cf5239ccf.png)
 
+
+# 搭配神器 右键搜 已停更 已下架
+
+项目地址 https://github.com/xuender/cm
+![image](https://user-images.githubusercontent.com/90203620/182866621-1826fec4-8b8b-4604-98c3-225690ba5f5b.png)
+
+
