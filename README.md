@@ -23,7 +23,8 @@ https://chrome.google.com/webstore/detail/强悍搜索/dnnaekppbdlfpccahbhnnfghf
 
 ![image](https://user-images.githubusercontent.com/90203620/182856281-b6096f87-09ea-4095-b34a-aaf496e14546.png)
 
-推荐配置点击这里下载
+推荐配置下载
+https://raw.githubusercontent.com/HookCode/Centext-Search-huacisousuo-strong-search/main/强悍搜索配置20220804%20HookCode.json
 
 # Selection Search 没有多列 无汉化
 下载地址
